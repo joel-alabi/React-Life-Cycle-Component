@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+  padding-top: 2em;
+}
+.table{
+  text-align:center;
+  align-content: flex-end;
+  padding-left: 25%;
+  font-size: 20px;
+ 
+
+}
